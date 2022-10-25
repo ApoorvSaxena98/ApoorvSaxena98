@@ -12,14 +12,6 @@
 #
 ### Education
 📚 Currently learning Quantum Computing
-#
-### Skills
-🐍 PYTHON 
-💻 REACT 
-⚙ JS 
-⌨ HTML 
-🖌 CSS
-#
 
 <!---
 ApoorvSaxena98/ApoorvSaxena98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
