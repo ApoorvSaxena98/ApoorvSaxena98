@@ -17,6 +17,5 @@
 ApoorvSaxena98/ApoorvSaxena98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-#
-### Education
+###
 [![@apoorvasaxena98's Holopin board](https://holopin.me/apoorvasaxena98)](https://holopin.io/@apoorvasaxena98)
