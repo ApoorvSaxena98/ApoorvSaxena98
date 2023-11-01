@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ApoorvSaxena98
+- 👋 Hi, I’m @ApoorvaSaxena98
 - 📍ㅤI'm from Ghaziabad, Uttar Pradesh
 - 👀 I’m interested in learning new techs & culinary
 - 🌱 I’m currently learning Python, Django & Machine Learning
