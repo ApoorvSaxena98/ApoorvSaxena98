@@ -11,7 +11,7 @@
 🖌 CSS
 #
 ### Education
-📚 Currently learning Quantum Computing
+📚 Currently Enrolled in University of the People, Pasadena,CA.
 
 <!---
 ApoorvSaxena98/ApoorvSaxena98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
